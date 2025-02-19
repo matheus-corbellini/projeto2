@@ -1,0 +1,7 @@
+tipo;numero;nomecliente;descricao;peso;latorigem;longorigem;latdestino;longdestino;qtdpessoas
+2-Carga inanimada;1;1;1;1.0;1.0;1.0;1.0;1.0;true
+3-Carga viva;2;2;2;2.0;2.0;2.0;2.0;2.0;1.0;11.0
+1-Pessoal;3;3;3;3.0;3.0;3.0;3.0;3.0;100
+3-Carga viva;222;Joana Santos;Pandas;250.3;-30.027593;-51.227884;-27.597393;-48.55289;20.1;30.9
+1-Pessoal;111;Maria da Silva;Trabalho;140.1;-30.02719;-51.161572;-30.061458;-51.173695;2
+2-Carga inanimada;333;Mario da Silva;Chocolate;150.2;-29.378867;-50.873611;-30.02719;-51.161572;true

@@ -1,0 +1,7 @@
+tipo;codigo;custofixo;autonomia;qtdmaxpessoas_pesomaximo;protecaoclimatizado
+1-Pessoal;1;1.0;1.0;100
+3-Carga viva;2;2.0;2.0;200.0;true
+2-Carga inanimada;3;3.0;3.0;100.0;true
+2-Carga inanimada;22;20.0;200.0;200.0;true
+1-Pessoal;11;10.0;100.0;5
+3-Carga viva;33;30.0;400.0;300.0;true
